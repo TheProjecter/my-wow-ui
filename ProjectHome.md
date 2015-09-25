@@ -1,0 +1,11 @@
+has:
+-combat log clearer: to prevent bugs
+-core: modifies some basic ui settings
+-ct core: modify chat window
+-ct mailmod: mail is usable now
+-losecontrol: keep track of CC
+-nchoverbind: set your keybinds
+-omnicc: timers
+-santaui: modifies more ui settings
+-tabbinder: tab=nearest enemy in pve, nearest enemy player in pvp
+-whoaunitframes: makes default uf less shitty
